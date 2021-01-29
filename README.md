@@ -1,7 +1,7 @@
 # convAE
 Convolutinal Auto Encoder using MNIST
 
-##RESULT
+## RESULT
 ### original img
 ![original](https://user-images.githubusercontent.com/54826050/106232725-09616300-6238-11eb-8e79-8d7f41b48d42.png)
 
